@@ -1,0 +1,2 @@
+# CodewarsSolutions
+Successful Codewars Kata
