@@ -1,2 +1,2 @@
 # CodewarsSolutions
-Successful Codewars Kata
+Successful Codewars Kata Solutions
