@@ -1,4 +1,4 @@
 # CodewarsSolutions
 Successful Codewars Kata Solutions
 
-https://www.codewars.com/users/rob-seaver-volusion/badges/large
+![alt text](https://www.codewars.com/users/rob-seaver-volusion/badges/large "Codewars Rank")
